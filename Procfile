@@ -1,1 +1,1 @@
-web: node phoneAuth
+web: node phoneAuth.js
