@@ -1,1 +1,1 @@
-node phoneAuth
+web: node phoneAuth
